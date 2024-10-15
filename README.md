@@ -1,4 +1,4 @@
-# proceduralSierpinskiFractorGenerator
+# proceduralSierpinskiFractalGenerator
 Procedural Sierpinski Fractal Generator
 
 
